@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Frontend heavy Projects<br>I would love to collaborate on Full stack projects<br>I am aspiring to contribute in open source<br>
+I am currently working on Frontend heavy Projects.<br>I would love to collaborate on Full stack projects.<br>I am aspiring to contribute in open source.<br>
 
 
 # 💻 Tech Stack:
